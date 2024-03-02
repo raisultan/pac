@@ -1,0 +1,10 @@
+.env
+.vscode
+volumes/
+dumps/
+.idea
+.python-version
+*.code-workspace
+.DS_Store
+app/out/
+__pycache__/
