@@ -11,6 +11,7 @@ clean-text = {version = "0.6.0", extras = ["gpl"]}
 openai = "1.13.3"
 python-dotenv = "1.0.1"
 instructor = "0.6.2"
+pymilvus = "2.3.6"
 
 
 [build-system]
