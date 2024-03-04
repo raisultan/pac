@@ -31,7 +31,7 @@ class VectorDB:
     def disconnect(self):
         self.repository.disconnect()
 
-    def search(self, embedding: list[float], top_k: int = 5) -> list:
+    def search(self, embedding: list[float], top_k: int = 5) -> list[dict]:
         return self.repository.search(embedding, top_k)
 
     def insert(self, record: TicketDTO) -> None:

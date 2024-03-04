@@ -36,7 +36,7 @@ class CategorizedTicket(BaseModel):
     category: TicketCategory = Field(description='Correctly assign one of the predefined categories to the ticket')
 
 
-async def categorize(text: str) -> CategorizedTicket:
+async def categorize(text: str) -> TicketCategory:
     categorized = await client.chat.completions.create(
         model='gpt-3.5-turbo',
         response_model=CategorizedTicket,
@@ -44,4 +44,4 @@ async def categorize(text: str) -> CategorizedTicket:
             {'role': 'user', 'content': text},
         ]
     )
-    return categorized
+    return categorized.category
