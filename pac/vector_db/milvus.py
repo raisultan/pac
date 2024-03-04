@@ -2,6 +2,8 @@ from dataclasses import dataclass
 
 from pymilvus import Collection, CollectionSchema, FieldSchema, DataType, connections
 
+from pac.vector_db.interface import VectorDBInterface
+
 
 @dataclass(frozen=True)
 class MilvusCollectionConfig:
@@ -10,7 +12,7 @@ class MilvusCollectionConfig:
     params: dict
 
 
-class MilvusRepository:
+class MilvusRepository(VectorDBInterface):
 
     VECTOR_DIMENSIONS = 1536
 
@@ -68,16 +70,6 @@ class MilvusRepository:
     def get_collection(self) -> Collection:
         return Collection(name=self.collection_name)
 
-    @staticmethod
-    def prepare_record(
-        id: int,
-        email: str,
-        text: str,
-        category: str,
-        embedding: list[float],
-    ) -> dict:
-        return {'id': id, 'email': email, 'text': text, 'category': category, 'embedding': embedding}
-
     def insert(self, records: list[dict]) -> None:
         collection = self.get_collection()
         collection.load()
@@ -90,7 +82,7 @@ class MilvusRepository:
         collection.upsert(records)
         collection.flush()
 
-    def search(self, embedding: list[float]) -> list[dict]:
+    def search(self, embedding: list[float], topK: int) -> list[dict]:
         collection = self.get_collection()
         collection.load()
         search_params = {'metric_type': self.index_config.metric_type, 'params': self.index_config.params}
@@ -98,7 +90,7 @@ class MilvusRepository:
             [embedding],
             'embedding',
             search_params,
-            limit=5,
+            limit=topK,
             output_fields=['id', 'category', 'text'],
         )
         result = []
