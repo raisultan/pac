@@ -13,7 +13,7 @@ class Ticket(BaseModel):
     text: str
 
 
-SIMILARITY_THRESHOLD = 0.85
+SIMILARITY_THRESHOLD = 0.9
 
 
 async def process(ticket: Ticket) -> None:
@@ -24,19 +24,26 @@ async def process(ticket: Ticket) -> None:
     vector_db.connect()
 
     search_result = vector_db.search(embedding)
+    filtered_results = [r for r in search_result if r['distance'] >= SIMILARITY_THRESHOLD]
+    sorted_filtered_results = sorted(filtered_results, key=lambda r: r['distance'], reverse=True)
 
-    similar_records_categories = set([r['category'] for r in search_result if r['distance'] < SIMILARITY_THRESHOLD])
-    if len(similar_records_categories) == 1:
+    print(f'Found {sorted_filtered_results} similar records.')
+
+    if sorted_filtered_results:
         record = TicketDTO(
             id=ticket.id,
             email=ticket.email,
             text=normalized_text,
-            category=similar_records_categories.pop(),
+            category=sorted_filtered_results[0]['category'],
             embedding=embedding,
         )
-        print(f'Found similar records with category {record.category}. Assigning the same category to the ticket.')
+        print(
+            f'Found similar records with category {record.category}. '
+            f'The most similar record {sorted_filtered_results[0]}'
+            'Assigning the same category to the ticket.'
+        )
     else:
-        category = categorize(normalized_text)
+        category = await categorize(normalized_text)
         if category == TicketCategory.OTHER:
             raise ValueError('Could not categorize the ticket')
         record = TicketDTO(
