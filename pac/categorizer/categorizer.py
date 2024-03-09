@@ -1,4 +1,4 @@
-from typing import Final, Type
+from typing import Final, Type, Optional
 
 from pydantic import BaseModel
 
@@ -15,6 +15,12 @@ class Ticket(BaseModel):
     text: str
 
 
+class TicketCategorizationEvent(BaseModel):
+    ticket: Ticket
+    category: Optional[TicketCategory] = None
+    is_llm_processed: bool = False
+
+
 class Categorizer:
     SIMILARITY_THRESHOLD: Final[float] = 0.9
 
@@ -22,7 +28,9 @@ class Categorizer:
         self._categorizer_client = categorizer_client
         self._vector_db = vector_db
 
-    async def categorize(self, ticket: Ticket) -> None:
+    async def categorize(self, ticket: Ticket) -> TicketCategorizationEvent:
+        event = TicketCategorizationEvent(ticket=ticket)
+
         normalized_text = normalize(ticket.text)
         embedding = await vectorize(normalized_text)
 
@@ -46,6 +54,7 @@ class Categorizer:
                 'Assigning the same category to the ticket.'
             )
         else:
+            event.is_llm_processed = True
             category = await self._categorizer_client.run(normalized_text)
             if category == TicketCategory.OTHER:
                 raise ValueError('Could not categorize the ticket')
@@ -53,9 +62,11 @@ class Categorizer:
                 id=ticket.id,
                 email=ticket.email,
                 text=normalized_text,
-                category=category.name,
+                category=category.value,
                 embedding=embedding,
             )
             print(f'No similar tickets. Assigned category {record.category} to the ticket.')
 
+        event.category = record.category
         self._vector_db.insert(record)
+        return event
