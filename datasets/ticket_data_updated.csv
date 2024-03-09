@@ -1,0 +1,301 @@
+ID,email,text,category
+1,markharrington@yahoo.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+2,smontgomery@gmail.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+3,bakerjohn@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+4,derricktrujillo@gonzales-williams.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+5,paul16@smith.net,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+6,derrick94@gmail.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+7,brownsean@yahoo.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+8,barrettchristie@carroll-delgado.net,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+9,robynfrye@cooper-williams.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+10,christina74@hotmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+11,andrewgill@tucker.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+12,brendadaniel@yahoo.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+13,melissa74@white-long.net,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+14,petersmichelle@hotmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+15,lesliefrank@brooks.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+16,taylorbarbara@yahoo.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+17,howard35@blackwell.org,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+18,philip06@walker.info,I've experienced data loss after the latest software update.,DATA_LOSS
+19,zdennis@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+20,hsmith@moore-martinez.net,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+21,peterrobinson@yahoo.com,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+22,lukemeza@fletcher-lloyd.org,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+23,jennifer78@hotmail.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+24,jessicamiller@gmail.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+25,jwood@spencer.com,I've experienced data loss after the latest software update.,DATA_LOSS
+26,jesusmoran@hotmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+27,harold95@cruz.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+28,gary68@sanford-cox.info,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+29,awhite@yahoo.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+30,jamesprice@hernandez.biz,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+31,rbrown@koch.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+32,christopher75@smith-anderson.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+33,allenscott@gmail.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+34,nclarke@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+35,jesse66@yahoo.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+36,brittany98@hotmail.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+37,amanda40@ingram-martinez.info,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+38,garciaheather@peck-hill.info,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+39,francischristopher@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+40,marquezjenny@williams.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+41,justin82@wade.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+42,kimberlybrown@terrell.biz,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+43,tina12@gmail.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+44,melissa18@gmail.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+45,hamptonkyle@griffin.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+46,gabriel34@campos-green.com,I've experienced data loss after the latest software update.,DATA_LOSS
+47,williamsjessica@keith.info,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+48,kathleen13@thompson.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+49,charlesrichards@waters-miller.org,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+50,kdavis@brown-white.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+51,mmerritt@yahoo.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+52,dsmith@reyes-cruz.biz,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+53,eroberts@levy.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+54,joshua08@bowers-davis.com,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+55,darrylrussell@yahoo.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+56,dfleming@rhodes.org,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+57,tylerwhitney@hamilton.biz,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+58,whernandez@richardson.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+59,lopezjohnny@yahoo.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+60,leetimothy@hotmail.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+61,andrew42@yahoo.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+62,jason88@moore.info,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+63,hopkinskaylee@hotmail.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+64,samantha54@ball.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+65,richard30@matthews-duncan.info,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+66,stefanie26@yahoo.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+67,cmitchell@hotmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+68,ggraham@byrd.org,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+69,kerrangel@lane.biz,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+70,perryjessica@bennett.biz,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+71,gibbscraig@lee.biz,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+72,maryvega@turner.info,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+73,paulaanderson@yahoo.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+74,becky25@hubbard.com,I've experienced data loss after the latest software update.,DATA_LOSS
+75,ihampton@thomas.info,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+76,mikelawrence@mccall-hill.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+77,hubbardbrian@chavez-james.biz,I've experienced data loss after the latest software update.,DATA_LOSS
+78,donald22@yahoo.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+79,bendertroy@booth.info,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+80,dhunt@hotmail.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+81,timothy07@cook-duran.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+82,herrerajose@gmail.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+83,bryantrandall@hotmail.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+84,alexandersmith@fletcher.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+85,butlerlaura@miller.org,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+86,stephanie82@gmail.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+87,icaldwell@stewart-nguyen.biz,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+88,choichristopher@daugherty.org,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+89,robinhayes@maxwell.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+90,pflores@jones.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+91,zwalker@moore.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+92,amanda48@harris-yu.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+93,jwalker@hotmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+94,lisa38@ferguson.biz,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+95,hgross@lynn.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+96,lindsey26@johnson-bradley.org,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+97,martinezmariah@henderson.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+98,destiny16@jimenez-wilson.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+99,ohoffman@yahoo.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+100,evansjason@george.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+101,ihoffman@hotmail.com,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+102,asingleton@hotmail.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+103,stephaniesmith@gmail.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+104,kimberlykennedy@gmail.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+105,ortizmichael@swanson.org,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+106,burkedennis@steele.org,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+107,vbarber@thompson.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+108,andrewtorres@gmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+109,michael13@walker.info,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+110,cisnerosjames@gmail.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+111,gabrieldyer@gmail.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+112,wfletcher@carr.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+113,ysanchez@yahoo.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+114,iolson@short.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+115,rhodesjacqueline@yahoo.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+116,moodysusan@yahoo.com,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+117,edward50@christian.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+118,robert71@lloyd.org,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+119,anthony97@hopkins.biz,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+120,jenniferhorne@perkins.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+121,zaguilar@burns.net,I've experienced data loss after the latest software update.,DATA_LOSS
+122,emorgan@campos.org,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+123,huntstephanie@yahoo.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+124,kathleencook@gmail.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+125,anthony54@yahoo.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+126,ethompson@ponce-wade.com,I've experienced data loss after the latest software update.,DATA_LOSS
+127,jonesriley@hotmail.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+128,theresa94@lawson.info,I've experienced data loss after the latest software update.,DATA_LOSS
+129,jon20@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+130,ian45@smith-smith.net,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+131,vscott@hotmail.com,I've experienced data loss after the latest software update.,DATA_LOSS
+132,kimkristen@hotmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+133,michealperkins@yahoo.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+134,debrahartman@hotmail.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+135,christinarodriguez@taylor.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+136,christine61@flores.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+137,jasonerickson@yahoo.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+138,cummingsmichael@mitchell.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+139,gerald64@harris.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+140,castillodoris@hotmail.com,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+141,cody75@west-joyce.com,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+142,christopherpitts@ward.com,I've experienced data loss after the latest software update.,DATA_LOSS
+143,ydelacruz@yahoo.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+144,lcox@castillo-bright.info,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+145,iowens@schwartz-daniels.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+146,lhall@nelson-king.biz,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+147,carolyn33@malone.com,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+148,vickiehunter@thomas.info,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+149,smithjonathan@gmail.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+150,evansnatalie@gmail.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+151,omaxwell@gmail.com,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+152,jonathanbradley@yahoo.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+153,corymartinez@cook.com,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+154,annehunter@stanley.com,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+155,myoung@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+156,cynthia29@gmail.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+157,tcooper@harvey-baldwin.biz,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+158,campbellapril@hotmail.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+159,glenn89@sandoval-smith.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+160,veronica97@glenn.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+161,vlewis@hotmail.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+162,jwood@norton-gregory.org,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+163,xfletcher@gilbert-douglas.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+164,alexanderbenson@chan.com,I've experienced data loss after the latest software update.,DATA_LOSS
+165,trevor86@hotmail.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+166,burtonamanda@yahoo.com,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+167,amberhutchinson@yahoo.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+168,danny52@hotmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+169,moyerkristin@wolf.info,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+170,moralesshelley@hotmail.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+171,ehamilton@flynn.biz,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+172,dustin96@gmail.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+173,stephenwade@phillips-hogan.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+174,robertking@yahoo.com,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+175,william35@yahoo.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+176,istrong@murphy.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+177,dominique94@hotmail.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+178,harrelljoe@roberts-flowers.biz,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+179,ericksonjoseph@hotmail.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+180,wagnerbrittney@gmail.com,I've experienced data loss after the latest software update.,DATA_LOSS
+181,michaelhall@patrick.info,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+182,vjones@walker.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+183,morenoemily@marquez.org,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+184,donaldnunez@hess-bell.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+185,terrymanuel@taylor.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+186,deannamccarthy@hotmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+187,nicolepierce@myers-smith.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+188,wilsoncarol@yahoo.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+189,hhurley@morrow.info,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+190,zlong@hotmail.com,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+191,jose48@yahoo.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+192,kimclark@hotmail.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+193,michaeljohnson@riley.biz,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+194,petersonamanda@gmail.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+195,diazshane@yahoo.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+196,wanderson@hotmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+197,russellrobert@hotmail.com,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+198,molinabrenda@black.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+199,shaneallen@hotmail.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+200,lukewalton@stevens-williams.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+201,ymurphy@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+202,mcneilapril@hotmail.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+203,nicholasrobinson@jones.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+204,jlane@jacobs-sims.net,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+205,michellesnyder@robertson.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+206,amy46@yahoo.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+207,youngdavid@gmail.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+208,angelacochran@cervantes.biz,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+209,nglover@hotmail.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+210,theresamelton@lee-wade.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+211,christopher62@robles-andrade.org,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+212,bishopchad@hotmail.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+213,jordanreed@yahoo.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+214,nicholaslopez@anderson.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+215,jonesjeffrey@morales.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+216,esellers@logan-hall.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+217,gabrielgomez@hotmail.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+218,guerrerojessica@tran-lindsey.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+219,olsoncharles@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+220,mezakaren@yahoo.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+221,bmartin@gmail.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+222,ashley48@armstrong-raymond.com,I would like to cancel my order but can't find the option to do so.,CANCELLATION_REQUEST
+223,bryan09@yahoo.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+224,davidbutler@gmail.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+225,dianathornton@yahoo.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+226,catherine55@yahoo.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+227,catherine72@gmail.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+228,ericksonemily@lane-crane.biz,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+229,paul90@yahoo.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+230,paul83@robinson.org,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+231,simoncraig@clarke.biz,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+232,aguilarchelsea@brown.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+233,debrabryant@gutierrez.biz,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+234,rossjessica@robinson-moore.net,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+235,mariewilson@wilson-rivera.com,I've experienced data loss after the latest software update.,DATA_LOSS
+236,dyermonica@gmail.com,I've experienced data loss after the latest software update.,DATA_LOSS
+237,moralestony@cook-walker.org,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+238,sandrafarrell@yahoo.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+239,npeters@hotmail.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+240,tasha81@smith-craig.net,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+241,tylerpeter@gmail.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+242,michaelolson@carr-king.net,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+243,morrismichael@hotmail.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+244,brandon28@hotmail.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+245,hberg@gmail.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+246,randall72@jimenez.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+247,twatkins@macdonald-taylor.net,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST
+248,autumnrose@gmail.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+249,noah48@gmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+250,solomonethan@smith-day.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+251,paul82@hotmail.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+252,rtaylor@yahoo.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+253,robertwelch@lopez.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+254,whitney59@adams-castaneda.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+255,hansenabigail@lynn-ruiz.org,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+256,ingramnatalie@yahoo.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+257,ambermaddox@bean.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+258,rhonda37@yahoo.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+259,sandersandrew@walters.biz,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+260,gsmith@hotmail.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+261,taylormeghan@hotmail.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+262,timothygray@gmail.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+263,hgarcia@yahoo.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+264,jbowman@west.net,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+265,christian25@hotmail.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+266,lyork@williams-edwards.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+267,higginspatricia@lin.com,I've experienced data loss after the latest software update.,DATA_LOSS
+268,gregorywilson@barnett-morris.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+269,james18@hughes.biz,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+270,tinacastro@hotmail.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+271,ypalmer@lee.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+272,lyonsjack@gmail.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+273,kristin86@cooper-wilson.com,I've experienced data loss after the latest software update.,DATA_LOSS
+274,brianwilson@hotmail.com,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+275,kaylalambert@gmail.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+276,sharon95@gmail.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+277,tnelson@gmail.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+278,adam65@clay-alexander.info,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+279,udavies@williams-stevens.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+280,fisherjason@mckee.com,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+281,pbowers@watson-greer.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+282,ckim@underwood-jones.net,I'm having trouble installing the software that came with my product.,INSTALLATION_SUPPORT
+283,harrisann@yahoo.com,My order has not arrived on the expected delivery date.,DELIVERY_PROBLEM
+284,laurenleon@valencia.com,I'm experiencing connectivity issues despite having a strong signal.,NETWORK_PROBLEM
+285,kennethmooney@yahoo.com,I'm looking for a product that meets specific requirements.,PRODUCT_RECOMMENDATION
+286,pwells@johnson.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+287,phart@graham.org,I'm having difficulty setting up my new device following the instructions provided.,PRODUCT_SETUP
+288,tranmelinda@gmail.com,I'm having trouble getting my new device to work with my existing setup.,PRODUCT_COMPATIBILITY
+289,ygreen@hotmail.com,My device is overheating and shuts down frequently.,HARDWARE_ISSUE
+290,oshaw@fletcher-young.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+291,kimamanda@smith.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+292,robertbird@hotmail.com,The battery life of my device is much shorter than expected.,BATTERY_LIFE
+293,csimmons@marsh.org,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+294,jamesfranklin@turner-terrell.com,I've encountered a bug in the software that causes the application to crash.,SOFTWARE_BUG
+295,kwong@yahoo.com,The display has flickering issues and sometimes goes black.,DISPLAY_ISSUE
+296,rgutierrez@gmail.com,I cannot log into my account despite using the correct credentials.,ACCOUNT_ACCESS
+297,ldowns@gardner.com,"There was an error processing my payment, and I was charged twice.",PAYMENT_ISSUE
+298,billy38@gregory-odom.com,I've experienced data loss after the latest software update.,DATA_LOSS
+299,ycompton@hotmail.com,The accessories I purchased are not compatible with my device.,PERIPHERAL_COMPATIBILITY
+300,nicolerobinson@hotmail.com,I would like to request a refund as the product does not meet my expectations.,REFUND_REQUEST

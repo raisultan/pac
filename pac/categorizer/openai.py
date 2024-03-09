@@ -8,7 +8,7 @@ from pac.categorizer.interface import CategorizerClientInterface
 
 class CategorizedTicket(BaseModel):
     category: TicketCategory = Field(
-        description='Correctly assign one of the predefined categories to the ticket',
+        description='Correctly assign one of the predefined categories to the support ticket',
     )
 
 

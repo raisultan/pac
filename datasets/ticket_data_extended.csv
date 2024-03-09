@@ -1,0 +1,1301 @@
+ID,email,text,category
+1,markharrington@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+2,smontgomery@gmail.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+3,bakerjohn@gmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+4,derricktrujillo@gonzales-williams.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+5,paul16@smith.net,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+6,derrick94@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+7,brownsean@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+8,barrettchristie@carroll-delgado.net,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+9,robynfrye@cooper-williams.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+10,christina74@hotmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+11,andrewgill@tucker.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+12,brendadaniel@yahoo.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+13,melissa74@white-long.net,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+14,petersmichelle@hotmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+15,lesliefrank@brooks.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+16,taylorbarbara@yahoo.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+17,howard35@blackwell.org,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+18,philip06@walker.info,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+19,zdennis@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+20,hsmith@moore-martinez.net,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+21,peterrobinson@yahoo.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+22,lukemeza@fletcher-lloyd.org,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+23,jennifer78@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+24,jessicamiller@gmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+25,jwood@spencer.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+26,jesusmoran@hotmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+27,harold95@cruz.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+28,gary68@sanford-cox.info,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+29,awhite@yahoo.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+30,jamesprice@hernandez.biz,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+31,rbrown@koch.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+32,christopher75@smith-anderson.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+33,allenscott@gmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+34,nclarke@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+35,jesse66@yahoo.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+36,brittany98@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+37,amanda40@ingram-martinez.info,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+38,garciaheather@peck-hill.info,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+39,francischristopher@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+40,marquezjenny@williams.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+41,justin82@wade.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+42,kimberlybrown@terrell.biz,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+43,tina12@gmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+44,melissa18@gmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+45,hamptonkyle@griffin.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+46,gabriel34@campos-green.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+47,williamsjessica@keith.info,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+48,kathleen13@thompson.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+49,charlesrichards@waters-miller.org,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+50,kdavis@brown-white.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+51,mmerritt@yahoo.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+52,dsmith@reyes-cruz.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+53,eroberts@levy.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+54,joshua08@bowers-davis.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+55,darrylrussell@yahoo.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+56,dfleming@rhodes.org,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+57,tylerwhitney@hamilton.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+58,whernandez@richardson.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+59,lopezjohnny@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+60,leetimothy@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+61,andrew42@yahoo.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+62,jason88@moore.info,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+63,hopkinskaylee@hotmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+64,samantha54@ball.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+65,richard30@matthews-duncan.info,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+66,stefanie26@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+67,cmitchell@hotmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+68,ggraham@byrd.org,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+69,kerrangel@lane.biz,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+70,perryjessica@bennett.biz,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+71,gibbscraig@lee.biz,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+72,maryvega@turner.info,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+73,paulaanderson@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+74,becky25@hubbard.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+75,ihampton@thomas.info,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+76,mikelawrence@mccall-hill.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+77,hubbardbrian@chavez-james.biz,All my selfies are gone! Did the update eat them?,DATA_LOSS
+78,donald22@yahoo.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+79,bendertroy@booth.info,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+80,dhunt@hotmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+81,timothy07@cook-duran.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+82,herrerajose@gmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+83,bryantrandall@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+84,alexandersmith@fletcher.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+85,butlerlaura@miller.org,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+86,stephanie82@gmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+87,icaldwell@stewart-nguyen.biz,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+88,choichristopher@daugherty.org,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+89,robinhayes@maxwell.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+90,pflores@jones.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+91,zwalker@moore.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+92,amanda48@harris-yu.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+93,jwalker@hotmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+94,lisa38@ferguson.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+95,hgross@lynn.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+96,lindsey26@johnson-bradley.org,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+97,martinezmariah@henderson.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+98,destiny16@jimenez-wilson.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+99,ohoffman@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+100,evansjason@george.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+101,ihoffman@hotmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+102,asingleton@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+103,stephaniesmith@gmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+104,kimberlykennedy@gmail.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+105,ortizmichael@swanson.org,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+106,burkedennis@steele.org,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+107,vbarber@thompson.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+108,andrewtorres@gmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+109,michael13@walker.info,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+110,cisnerosjames@gmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+111,gabrieldyer@gmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+112,wfletcher@carr.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+113,ysanchez@yahoo.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+114,iolson@short.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+115,rhodesjacqueline@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+116,moodysusan@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+117,edward50@christian.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+118,robert71@lloyd.org,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+119,anthony97@hopkins.biz,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+120,jenniferhorne@perkins.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+121,zaguilar@burns.net,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+122,emorgan@campos.org,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+123,huntstephanie@yahoo.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+124,kathleencook@gmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+125,anthony54@yahoo.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+126,ethompson@ponce-wade.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+127,jonesriley@hotmail.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+128,theresa94@lawson.info,All my selfies are gone! Did the update eat them?,DATA_LOSS
+129,jon20@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+130,ian45@smith-smith.net,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+131,vscott@hotmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+132,kimkristen@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+133,michealperkins@yahoo.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+134,debrahartman@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+135,christinarodriguez@taylor.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+136,christine61@flores.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+137,jasonerickson@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+138,cummingsmichael@mitchell.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+139,gerald64@harris.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+140,castillodoris@hotmail.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+141,cody75@west-joyce.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+142,christopherpitts@ward.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+143,ydelacruz@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+144,lcox@castillo-bright.info,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+145,iowens@schwartz-daniels.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+146,lhall@nelson-king.biz,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+147,carolyn33@malone.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+148,vickiehunter@thomas.info,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+149,smithjonathan@gmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+150,evansnatalie@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+151,omaxwell@gmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+152,jonathanbradley@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+153,corymartinez@cook.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+154,annehunter@stanley.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+155,myoung@gmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+156,cynthia29@gmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+157,tcooper@harvey-baldwin.biz,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+158,campbellapril@hotmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+159,glenn89@sandoval-smith.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+160,veronica97@glenn.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+161,vlewis@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+162,jwood@norton-gregory.org,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+163,xfletcher@gilbert-douglas.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+164,alexanderbenson@chan.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+165,trevor86@hotmail.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+166,burtonamanda@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+167,amberhutchinson@yahoo.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+168,danny52@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+169,moyerkristin@wolf.info,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+170,moralesshelley@hotmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+171,ehamilton@flynn.biz,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+172,dustin96@gmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+173,stephenwade@phillips-hogan.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+174,robertking@yahoo.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+175,william35@yahoo.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+176,istrong@murphy.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+177,dominique94@hotmail.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+178,harrelljoe@roberts-flowers.biz,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+179,ericksonjoseph@hotmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+180,wagnerbrittney@gmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+181,michaelhall@patrick.info,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+182,vjones@walker.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+183,morenoemily@marquez.org,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+184,donaldnunez@hess-bell.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+185,terrymanuel@taylor.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+186,deannamccarthy@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+187,nicolepierce@myers-smith.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+188,wilsoncarol@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+189,hhurley@morrow.info,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+190,zlong@hotmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+191,jose48@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+192,kimclark@hotmail.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+193,michaeljohnson@riley.biz,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+194,petersonamanda@gmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+195,diazshane@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+196,wanderson@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+197,russellrobert@hotmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+198,molinabrenda@black.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+199,shaneallen@hotmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+200,lukewalton@stevens-williams.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+201,ymurphy@gmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+202,mcneilapril@hotmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+203,nicholasrobinson@jones.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+204,jlane@jacobs-sims.net,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+205,michellesnyder@robertson.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+206,amy46@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+207,youngdavid@gmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+208,angelacochran@cervantes.biz,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+209,nglover@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+210,theresamelton@lee-wade.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+211,christopher62@robles-andrade.org,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+212,bishopchad@hotmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+213,jordanreed@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+214,nicholaslopez@anderson.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+215,jonesjeffrey@morales.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+216,esellers@logan-hall.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+217,gabrielgomez@hotmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+218,guerrerojessica@tran-lindsey.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+219,olsoncharles@gmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+220,mezakaren@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+221,bmartin@gmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+222,ashley48@armstrong-raymond.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+223,bryan09@yahoo.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+224,davidbutler@gmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+225,dianathornton@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+226,catherine55@yahoo.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+227,catherine72@gmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+228,ericksonemily@lane-crane.biz,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+229,paul90@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+230,paul83@robinson.org,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+231,simoncraig@clarke.biz,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+232,aguilarchelsea@brown.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+233,debrabryant@gutierrez.biz,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+234,rossjessica@robinson-moore.net,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+235,mariewilson@wilson-rivera.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+236,dyermonica@gmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+237,moralestony@cook-walker.org,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+238,sandrafarrell@yahoo.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+239,npeters@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+240,tasha81@smith-craig.net,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+241,tylerpeter@gmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+242,michaelolson@carr-king.net,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+243,morrismichael@hotmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+244,brandon28@hotmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+245,hberg@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+246,randall72@jimenez.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+247,twatkins@macdonald-taylor.net,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+248,autumnrose@gmail.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+249,noah48@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+250,solomonethan@smith-day.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+251,paul82@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+252,rtaylor@yahoo.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+253,robertwelch@lopez.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+254,whitney59@adams-castaneda.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+255,hansenabigail@lynn-ruiz.org,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+256,ingramnatalie@yahoo.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+257,ambermaddox@bean.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+258,rhonda37@yahoo.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+259,sandersandrew@walters.biz,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+260,gsmith@hotmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+261,taylormeghan@hotmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+262,timothygray@gmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+263,hgarcia@yahoo.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+264,jbowman@west.net,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+265,christian25@hotmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+266,lyork@williams-edwards.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+267,higginspatricia@lin.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+268,gregorywilson@barnett-morris.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+269,james18@hughes.biz,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+270,tinacastro@hotmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+271,ypalmer@lee.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+272,lyonsjack@gmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+273,kristin86@cooper-wilson.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+274,brianwilson@hotmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+275,kaylalambert@gmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+276,sharon95@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+277,tnelson@gmail.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+278,adam65@clay-alexander.info,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+279,udavies@williams-stevens.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+280,fisherjason@mckee.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+281,pbowers@watson-greer.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+282,ckim@underwood-jones.net,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+283,harrisann@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+284,laurenleon@valencia.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+285,kennethmooney@yahoo.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+286,pwells@johnson.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+287,phart@graham.org,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+288,tranmelinda@gmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+289,ygreen@hotmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+290,oshaw@fletcher-young.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+291,kimamanda@smith.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+292,robertbird@hotmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+293,csimmons@marsh.org,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+294,jamesfranklin@turner-terrell.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+295,kwong@yahoo.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+296,rgutierrez@gmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+297,ldowns@gardner.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+298,billy38@gregory-odom.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+299,ycompton@hotmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+300,nicolerobinson@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+301,lthomas@collins.org,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+302,walkerjohn@yahoo.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+303,smithkatie@mcgee.org,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+304,wardkayla@webb.info,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+305,vpowell@thomas-johnson.info,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+306,keithdaniels@hotmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+307,emily75@fleming-patterson.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+308,heather16@wallace.info,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+309,lewisjoshua@roach-oliver.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+310,harrisbrady@castro-reyes.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+311,jsilva@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+312,dshields@dougherty-morgan.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+313,nwatkins@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+314,sarajohnson@brown.org,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+315,kyle01@martin-jones.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+316,hdavis@williams.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+317,ywarren@gmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+318,jodymartinez@brown.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+319,ralph92@romero.biz,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+320,yferguson@simpson.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+321,bwallace@yahoo.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+322,christinamorris@gmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+323,mary36@torres.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+324,davidrodriguez@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+325,gina71@smith.info,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+326,sharon24@hotmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+327,gsimmons@yahoo.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+328,carriejordan@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+329,stephentrevino@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+330,allen37@gmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+331,morrowchad@mayer.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+332,ryan59@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+333,marcus55@yahoo.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+334,adamsgrace@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+335,frobbins@perez.org,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+336,zruiz@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+337,mezasteven@hotmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+338,tannerbrian@beck.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+339,hesskaren@fox.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+340,alexanderprice@joseph-sanchez.info,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+341,gail90@hotmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+342,toconnor@yahoo.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+343,fkeller@gmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+344,williamssamantha@hotmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+345,mgraham@collins-ball.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+346,daniellehays@martin.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+347,hhartman@hotmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+348,imccoy@gmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+349,michael59@gmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+350,danielledrake@yahoo.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+351,xbrown@perez.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+352,rquinn@brown-guzman.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+353,michaelhart@hotmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+354,millerjill@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+355,floreshannah@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+356,tiffanybaxter@hotmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+357,miguelburnett@perkins.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+358,henryjoseph@gmail.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+359,michelle72@crane.biz,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+360,jacob25@hotmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+361,lopezhelen@vega.biz,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+362,traceypineda@james.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+363,erika34@wallace-aguilar.biz,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+364,butlercody@gmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+365,james78@sexton-morrison.org,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+366,zryan@hernandez.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+367,jbaker@norman.biz,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+368,veronica16@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+369,martinkaren@hotmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+370,claytonrichard@gmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+371,littlepaula@jackson-white.net,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+372,zwilliams@walker.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+373,melissabrown@yahoo.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+374,caitlynwilliams@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+375,robertbrown@yahoo.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+376,johnsonjustin@hotmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+377,dschmidt@gmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+378,townsendtaylor@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+379,dakotaanderson@keith.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+380,thomasdeborah@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+381,emma43@weaver-morris.net,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+382,shelbynunez@yahoo.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+383,qbradford@hotmail.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+384,ufernandez@martin-gilbert.org,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+385,jerryreed@yahoo.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+386,griffithkaitlyn@nichols-ingram.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+387,amandachristensen@frazier-cooper.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+388,ericjohnson@dickson-elliott.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+389,joshua46@perry-clark.org,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+390,aaronmitchell@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+391,owenpeter@gmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+392,nfox@erickson.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+393,freemanjeffrey@byrd.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+394,benjamingarcia@gmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+395,wrightjeremy@daniels.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+396,mlopez@sanchez.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+397,christensenadrienne@clark.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+398,kathy58@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+399,wmartin@smith-williams.biz,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+400,lauren27@hotmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+401,sara06@hotmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+402,tyler89@franco-wilson.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+403,ronnie38@stevens.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+404,robert34@garcia.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+405,nsanchez@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+406,lisa51@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+407,elizabethsmith@whitney.info,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+408,ritterlisa@golden.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+409,huynhmichelle@christensen.org,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+410,kristie84@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+411,shawncruz@walker-foster.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+412,nancyguerrero@lewis.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+413,hubershawn@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+414,sarah43@yahoo.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+415,barbara38@cochran-james.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+416,elizabethwagner@gmail.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+417,sarahdavidson@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+418,knightjennifer@palmer.biz,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+419,rebeccabarry@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+420,johnsondominique@hawkins.net,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+421,richard30@white.org,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+422,brooke83@yahoo.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+423,brownjoshua@bryant-rivera.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+424,thomas55@daniels-barrera.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+425,hernandezjose@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+426,jeremy42@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+427,kfoley@webb-lopez.org,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+428,jay08@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+429,xwilliams@yahoo.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+430,padillacheryl@villarreal.biz,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+431,jacksonheather@carter-mueller.info,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+432,ayaladaniel@pham.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+433,jaymckinney@brown.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+434,webbjoyce@smith-hoffman.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+435,amytaylor@hotmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+436,omyers@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+437,fmeyer@hotmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+438,thomas47@gmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+439,anthonymichael@yahoo.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+440,gonzalezdavid@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+441,jose89@carlson.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+442,brady54@moore.info,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+443,alyssa18@andrews.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+444,laurenrogers@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+445,eduardo04@garcia-wood.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+446,tylerdavis@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+447,bnichols@murray.info,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+448,jennifer47@meyers.org,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+449,pacelisa@hotmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+450,kendracook@garza.net,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+451,istanley@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+452,davidrowe@hotmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+453,phillipscarlos@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+454,haleymichael@church.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+455,lmccarthy@peters-moss.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+456,ztucker@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+457,geoffreybrown@gmail.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+458,foxjames@brown.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+459,melissamason@gordon.info,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+460,rossdeborah@gray.net,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+461,nicholasduran@jimenez.biz,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+462,langdavid@hotmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+463,lorrainemathis@yahoo.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+464,rgross@lang-brown.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+465,pamelapitts@hernandez.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+466,stephen35@hotmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+467,tylerpaul@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+468,vwest@hotmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+469,iray@owens.net,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+470,sara09@hotmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+471,englishnicholas@brock-jones.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+472,rogerhayden@gmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+473,emily42@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+474,moorekatie@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+475,jonesannette@harris-phillips.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+476,davidsongail@randall.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+477,marycannon@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+478,cassandra76@gmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+479,shahmonica@davis.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+480,smithkristen@sherman.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+481,smithbrian@boyd.org,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+482,anthony98@gmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+483,iscott@hayes.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+484,mary11@maxwell-brown.biz,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+485,natasha52@hotmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+486,ugordon@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+487,bchapman@norris.net,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+488,david19@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+489,smithpatricia@yahoo.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+490,juan15@rivera.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+491,brownstephanie@gmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+492,ckirk@gmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+493,dawnbarnes@hotmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+494,marco23@gmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+495,mthomas@yahoo.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+496,dlawson@ferguson-jackson.net,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+497,miawilliams@gmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+498,sharonfields@valencia.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+499,wowen@stewart-howard.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+500,aibarra@pineda.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+501,nicolediaz@mitchell-garrett.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+502,johnsonanthony@walker-baker.info,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+503,watsonronald@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+504,michelle21@foster.org,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+505,brandigeorge@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+506,halebarbara@rodriguez.net,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+507,smithjon@joseph.org,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+508,bianca23@gmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+509,qsmith@gmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+510,cmartinez@diaz-munoz.info,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+511,patriciawalsh@holden.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+512,bguzman@kelly.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+513,adavis@mason-tran.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+514,jeffreybolton@simon.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+515,greenesharon@hotmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+516,yjones@delgado-butler.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+517,davidhartman@hotmail.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+518,powellkimberly@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+519,davisteresa@yahoo.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+520,johnsonrachel@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+521,lsilva@gmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+522,shieldsalexa@ward-decker.info,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+523,craigware@yahoo.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+524,biancaacosta@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+525,qperry@schmidt.org,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+526,aguilarjared@hall.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+527,hoffmangeorge@hotmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+528,gmendez@yahoo.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+529,samantha98@smith-fritz.biz,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+530,zhernandez@armstrong.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+531,michaelmayer@hotmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+532,amber55@yahoo.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+533,rodriguezraymond@gmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+534,dhernandez@yahoo.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+535,bethany07@gmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+536,kaitlyn62@gmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+537,donaldsonrobin@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+538,munozdale@gonzalez.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+539,anna54@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+540,hillantonio@thomas.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+541,hdominguez@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+542,abrown@rodriguez-guzman.net,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+543,nataliejimenez@walker.info,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+544,jthomas@yahoo.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+545,tammyhenry@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+546,oscar63@gmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+547,sheliagibson@hotmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+548,upierce@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+549,patrickmassey@yahoo.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+550,stephaniecervantes@yahoo.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+551,hendrixnorman@newman.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+552,justin93@thompson-everett.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+553,dsingh@jackson.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+554,mholmes@smith.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+555,donald18@myers.info,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+556,yjohnson@boyd.org,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+557,lindseyjulie@campbell.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+558,yjohnson@gmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+559,kcook@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+560,abarton@may.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+561,jason96@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+562,dclark@hotmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+563,mikecurry@watson.org,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+564,espinozatyler@gmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+565,xford@hotmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+566,jacksonsheena@yahoo.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+567,jenningsrebecca@hall-hill.org,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+568,jamesjohnson@johnson.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+569,zachary36@harrell-hutchinson.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+570,michael08@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+571,tylerjessica@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+572,anthonymcclain@hotmail.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+573,stefanieblake@gmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+574,psmith@knight.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+575,ssalazar@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+576,phillipsmadison@yahoo.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+577,holmestimothy@higgins.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+578,lindalowe@gmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+579,juanpeterson@taylor-santos.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+580,williamswilliam@smith.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+581,david48@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+582,khart@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+583,torrestaylor@ruiz.biz,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+584,aliciaaguirre@yahoo.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+585,vhoward@gmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+586,joseph67@yahoo.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+587,pamelahenderson@hotmail.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+588,ukirby@yahoo.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+589,paulaking@cortez.net,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+590,jamesgomez@hotmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+591,haley00@bryant.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+592,jacob13@gmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+593,yjones@price.biz,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+594,jennifer03@yahoo.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+595,ashleypace@gmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+596,matthewgray@hotmail.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+597,yatesmelissa@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+598,coxkevin@hernandez-bruce.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+599,robin51@yahoo.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+600,ywilliams@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+601,johnsonrachael@harris.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+602,rebeccaellis@hotmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+603,lisa68@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+604,deborahespinoza@yahoo.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+605,whitenichole@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+606,bowenjonathan@gmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+607,gsmith@gmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+608,wilkinsdanielle@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+609,hallmichael@gmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+610,tylergrant@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+611,omorris@robles.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+612,sandovalmichael@yahoo.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+613,george30@cox-williams.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+614,palmeredward@hotmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+615,mosslee@mcdonald.info,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+616,matthewcline@jackson.org,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+617,michaelscott@gallagher-mathews.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+618,wardsean@garrett.biz,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+619,andersonjennifer@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+620,michael62@yahoo.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+621,ggomez@yahoo.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+622,james60@delacruz-moody.net,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+623,dbrown@baldwin-robinson.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+624,xbrown@baker.net,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+625,holdengregg@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+626,sarahaguilar@casey.org,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+627,robert70@gmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+628,moorecharles@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+629,donaldbrown@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+630,mleonard@miller.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+631,nancymcclain@johnson.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+632,meghan98@yahoo.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+633,renee12@hotmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+634,danasanders@campbell-watson.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+635,travis19@howell.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+636,virginiabenson@hicks.org,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+637,roberthodges@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+638,daniellerobertson@gibbs.biz,All my selfies are gone! Did the update eat them?,DATA_LOSS
+639,sramirez@braun.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+640,brett62@gmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+641,nicholas73@gmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+642,smithjoshua@hotmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+643,zcarter@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+644,darlenevaldez@williams.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+645,mrobles@gmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+646,mejiamelissa@lee-gonzalez.info,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+647,ehernandez@henderson.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+648,stephanie44@roberts.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+649,claytonantonio@smith.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+650,marymontoya@cunningham.org,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+651,lyoung@gmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+652,simmonskatie@nicholson.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+653,logankathleen@roth.biz,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+654,klong@mcdonald.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+655,pagejennifer@hotmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+656,joshua88@massey.org,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+657,thompsonjacob@howe.info,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+658,rebecca85@english.biz,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+659,kellishepherd@nguyen.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+660,vargasrenee@james.info,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+661,shawnlawrence@burke.biz,All my selfies are gone! Did the update eat them?,DATA_LOSS
+662,robertsanthony@yahoo.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+663,rhonda98@yahoo.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+664,sholder@barajas.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+665,david43@russell.info,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+666,juliemathews@clark-garcia.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+667,michelle05@yahoo.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+668,daniel18@yahoo.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+669,cookkeith@lara.biz,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+670,xking@gonzalez-smith.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+671,nicolekrause@wells.org,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+672,vanessa43@wilson.org,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+673,afigueroa@harris-thompson.org,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+674,tdavis@dawson.org,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+675,yolanda76@hotmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+676,james07@medina.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+677,matthew75@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+678,michaellambert@bridges.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+679,keith04@wright.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+680,clarkjohn@gmail.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+681,melissa28@hotmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+682,matthewprice@gmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+683,nhickman@hoover.info,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+684,kathy22@rodriguez-harris.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+685,foxamber@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+686,ijackson@moore-sanchez.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+687,kara41@gmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+688,qsmith@wilson.org,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+689,cindy54@hotmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+690,sanderssharon@norman.biz,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+691,vincentzachary@steele.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+692,justinjackson@hotmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+693,patriciapatterson@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+694,tinalee@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+695,kristenwade@hotmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+696,marie54@jordan.org,All my selfies are gone! Did the update eat them?,DATA_LOSS
+697,curtis93@hotmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+698,lwebb@morris-taylor.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+699,annettecox@yahoo.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+700,tbrown@yahoo.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+701,emilyperez@cook-lewis.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+702,smithmichael@gmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+703,cindy68@peters-nguyen.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+704,jnguyen@russell.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+705,jennifermiller@gmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+706,samuelstewart@young.info,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+707,nicholaspalmer@hester.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+708,marcushendricks@hotmail.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+709,ywilson@gmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+710,psimmons@gmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+711,ylivingston@schwartz.info,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+712,lindseysmith@taylor-charles.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+713,wilcoxjames@wood.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+714,fhughes@gmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+715,rubenglover@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+716,david09@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+717,derekmcdonald@davis-brandt.org,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+718,tristan44@kidd-lynch.biz,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+719,smurphy@jackson.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+720,martineztara@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+721,timothy95@young.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+722,blewis@hines-fisher.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+723,megan46@mcdonald.info,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+724,javiersmith@williams.info,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+725,charles56@rodriguez.biz,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+726,ggarcia@pierce-fox.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+727,bcampbell@guerrero-young.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+728,maddoxcatherine@jordan.org,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+729,zwalters@hotmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+730,schmidtdonna@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+731,karagreene@hotmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+732,shelia45@daniel.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+733,craig29@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+734,moniquemurillo@gmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+735,rebeccamonroe@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+736,michaelcastillo@hansen.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+737,john00@valencia.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+738,richard95@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+739,teresa84@campbell-walker.info,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+740,xnicholson@black.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+741,kerry16@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+742,brownsabrina@farley.info,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+743,adammullins@baker.biz,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+744,tammymoore@lambert.net,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+745,wneal@gmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+746,scott90@martinez.info,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+747,eroberts@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+748,melissaprince@yahoo.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+749,susangriffin@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+750,michael17@moody-myers.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+751,lyonsjose@hotmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+752,joshua93@jordan.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+753,qgilbert@scott-barber.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+754,nuneznathan@ibarra.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+755,kathleen79@gmail.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+756,lauradavenport@waters.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+757,smithmichael@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+758,rachel47@powell.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+759,robertserik@gmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+760,melaniefranklin@hotmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+761,scottstone@yahoo.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+762,snunez@gmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+763,wheelerangela@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+764,mstewart@sims.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+765,robertsonraymond@hotmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+766,timothysharp@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+767,palmerlauren@bryant-acevedo.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+768,emma61@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+769,qgalvan@hicks.org,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+770,josephevan@bradley.biz,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+771,hjames@maddox.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+772,jermaine67@gmail.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+773,sherylmiller@yahoo.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+774,ehiggins@rios.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+775,lsmith@hotmail.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+776,rebeccahobbs@silva.biz,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+777,christopherhernandez@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+778,cortezcarrie@harris-riddle.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+779,rachelcampos@hunter.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+780,rodriguezjoe@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+781,jamesrachel@yahoo.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+782,anthonykimberly@hurst-thompson.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+783,mikedawson@gmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+784,shannon41@garcia.net,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+785,philipnash@yahoo.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+786,garneramanda@gmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+787,djones@hotmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+788,johnsonjanet@williams-smith.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+789,jacobskinner@yahoo.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+790,dixonangela@soto-stevens.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+791,byoung@yahoo.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+792,carloscollier@carter-flores.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+793,millernichole@mccall.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+794,jennifernorris@stokes-williams.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+795,sleonard@mclaughlin.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+796,meyerangela@rice.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+797,lindseyjames@smith.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+798,rebecca89@hotmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+799,mccormickkristin@choi-jenkins.biz,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+800,alan78@yahoo.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+801,john40@wright-andrade.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+802,patricknguyen@yahoo.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+803,tara92@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+804,ksmith@yahoo.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+805,mark93@hotmail.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+806,martha85@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+807,mzimmerman@chan-king.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+808,zross@whitney.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+809,bwilson@pearson.org,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+810,chloe68@hodge-lane.org,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+811,qsanchez@campbell-krause.info,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+812,vancejennifer@cole.net,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+813,aharvey@garcia.org,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+814,andrew01@hotmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+815,scottknight@mcintosh-marshall.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+816,christinegreer@yahoo.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+817,andrea94@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+818,sfisher@rodriguez.org,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+819,angelica23@jenkins.biz,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+820,brian58@jackson.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+821,kristie96@yahoo.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+822,obrienjonathan@evans.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+823,ericcarpenter@ross-farley.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+824,byrdgabriela@guzman.org,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+825,qsimmons@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+826,bruiz@raymond-ferguson.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+827,laurieallen@strickland.biz,All my selfies are gone! Did the update eat them?,DATA_LOSS
+828,newtonvictoria@jimenez-garner.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+829,leslie61@ayala.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+830,calvinayala@hunter.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+831,wpayne@hotmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+832,michaelbrown@rodriguez.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+833,fbrooks@yahoo.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+834,carloscollier@brown.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+835,alexnorman@maldonado.info,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+836,maldonadohaley@ritter.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+837,pbradford@lane-kelly.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+838,darren31@hotmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+839,jpayne@yahoo.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+840,vturner@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+841,donaldkennedy@hotmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+842,manuel19@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+843,costaangela@hotmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+844,josephrogers@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+845,cthomas@yahoo.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+846,austin87@arnold.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+847,kmorales@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+848,lunachristian@boyd-wu.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+849,ibrown@gmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+850,debramorris@gmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+851,tiffanymiller@campos.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+852,sean94@robertson.net,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+853,ngaines@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+854,courtney28@dyer-perry.info,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+855,bjohnson@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+856,royricky@yahoo.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+857,matthew70@garcia.biz,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+858,bcohen@kennedy.info,All my selfies are gone! Did the update eat them?,DATA_LOSS
+859,wyattcindy@johnson.biz,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+860,emilyfarrell@hall-chambers.info,All my selfies are gone! Did the update eat them?,DATA_LOSS
+861,jhernandez@anderson.info,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+862,schroedershannon@hotmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+863,arthurberg@gmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+864,steven03@jacobson.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+865,youngjudy@lawson.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+866,xmcclure@gmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+867,ywilliams@contreras.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+868,ystephens@gmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+869,plarsen@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+870,cheyennemitchell@gentry.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+871,kelly83@phillips.net,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+872,traviswhite@yahoo.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+873,heathertran@hotmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+874,seanwilson@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+875,jeffmatthews@gmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+876,christopherwilliams@cantu-morris.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+877,uchase@benitez-fischer.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+878,bobby32@cortez.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+879,danastone@gmail.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+880,hickmanbrian@reynolds.net,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+881,isaiah54@christensen-mitchell.org,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+882,michelle00@shepherd-lee.biz,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+883,rachel82@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+884,ycarson@weiss-gilmore.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+885,bushalexis@hotmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+886,bennettshannon@hotmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+887,cmitchell@smith-smith.org,All my selfies are gone! Did the update eat them?,DATA_LOSS
+888,elizabeth61@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+889,roymichelle@wagner.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+890,jameslewis@davis.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+891,michaelgonzalez@yahoo.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+892,brandi42@reyes.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+893,fjefferson@hotmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+894,nichole78@ortiz-thomas.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+895,david36@jackson.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+896,zgarcia@wood-carlson.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+897,stevenlopez@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+898,lindseylopez@morrison.info,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+899,ksmith@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+900,rachel48@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+901,orowe@gmail.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+902,davidthompson@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+903,hilljasmine@stone.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+904,desireebaker@jackson.org,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+905,aarondorsey@hotmail.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+906,nicholasriley@garza-stokes.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+907,duncanmichael@hotmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+908,sandra70@white.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+909,denise03@gmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+910,jacobvalencia@valentine.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+911,debrajohnson@roberts.org,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+912,tricia82@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+913,johnhendricks@wilson-brown.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+914,hstein@jackson.net,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+915,david78@yahoo.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+916,lori14@hotmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+917,michaelrivera@boyd-gibson.info,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+918,jeremiahgarza@gomez.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+919,daniel54@griffin.net,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+920,shahjordan@mendoza.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+921,taylorbeth@higgins.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+922,leahjones@mercado.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+923,krystalsimmons@green-leblanc.net,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+924,fernandezjim@yahoo.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+925,ortizjasmine@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+926,brittanyhamilton@taylor.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+927,lisawilson@gmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+928,ckennedy@walker-martin.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+929,lanethomas@terrell.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+930,ashleysmith@johnston.net,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+931,brendadavis@williams-wade.net,All my selfies are gone! Did the update eat them?,DATA_LOSS
+932,asmith@hansen.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+933,vprice@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+934,sholmes@gmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+935,briangalloway@bond.net,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+936,karamyers@conway.org,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+937,luiscox@austin.net,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+938,nsweeney@gmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+939,weeksvictoria@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+940,jtorres@bailey.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+941,webbstephanie@gmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+942,michelle21@martin.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+943,sarahrichardson@smith.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+944,xtyler@nunez.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+945,tamara33@hotmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+946,mckenziematthew@henry.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+947,svaughn@rich.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+948,samantha88@richards.info,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+949,hmcpherson@hotmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+950,michellekhan@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+951,kathryn38@roberts-medina.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+952,amanda51@yahoo.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+953,zcrosby@hotmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+954,morrisrachael@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+955,gsolomon@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+956,katherine48@yahoo.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+957,johnadams@green-stone.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+958,jdurham@moore.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+959,perezkimberly@smith.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+960,beverlyclarke@yahoo.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+961,jpowell@gmail.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+962,gregoryemily@yahoo.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+963,richard57@williams.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+964,jackjackson@armstrong.net,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+965,davispatricia@roman.org,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+966,brownemma@yahoo.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+967,tammy97@yahoo.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+968,francisco47@juarez.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+969,djones@flores-johnson.biz,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+970,aaron21@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+971,porterwilliam@rodriguez.biz,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+972,mistysingh@yahoo.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+973,williamalvarez@yahoo.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+974,jeremy52@wiley.org,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+975,matthew74@scott.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+976,adaniels@haley.net,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+977,hgill@valdez.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+978,steventhompson@hotmail.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+979,laurenhampton@bell-wilson.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+980,jpatel@vasquez.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+981,susanhopkins@harris-friedman.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+982,joshuatodd@tanner-long.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+983,stacey51@yahoo.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+984,idavis@jefferson.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+985,snelson@miller-hebert.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+986,edwardmoore@gibbs.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+987,megangray@yahoo.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+988,jchavez@gmail.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+989,foxdenise@arnold.org,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+990,nguyenjoshua@rice.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+991,william86@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+992,andrewhuerta@lee.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+993,dennisamy@cabrera.net,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+994,wesley74@wong.net,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+995,susan65@gmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+996,xwade@gmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+997,victoria74@gmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+998,rossjon@yahoo.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+999,bergvanessa@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1000,mflores@miller.org,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1001,jackmorgan@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1002,edwardsjoshua@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1003,gwashington@jennings-duran.net,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+1004,villarrealanita@curtis-khan.org,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1005,darrell09@hotmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1006,joelgonzalez@thomas.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1007,dcruz@hotmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1008,robertmeyer@freeman.org,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+1009,edwardrivers@gmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1010,pmorris@hotmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+1011,xrodriguez@gmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1012,george92@jones-moore.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1013,kramerkatelyn@hotmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1014,princekelly@moses-taylor.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+1015,thomaselizabeth@williams.net,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+1016,andrew94@yahoo.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1017,ujohnson@hotmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1018,patrickmercado@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1019,shellysmith@wilson.info,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1020,shannon63@davenport.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+1021,gonzalesedward@hotmail.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1022,ahughes@hotmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1023,usimon@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1024,brandonrodriguez@yahoo.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1025,coreybrown@hotmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1026,russellallen@ryan.org,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+1027,morenobilly@gmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1028,lindagoodwin@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1029,ramosjennifer@soto-shannon.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1030,dennisbrooks@gmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1031,chavezblake@gross-andrews.net,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1032,neil14@yahoo.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+1033,jennifer93@winters.info,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+1034,coreyhernandez@mcpherson.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1035,kristineperkins@hotmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+1036,vegajulie@nguyen-rodriguez.org,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1037,nathanthompson@yahoo.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1038,zcontreras@patrick-cain.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1039,laura15@yahoo.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1040,whiteaustin@hood.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+1041,cynthia47@morrison.info,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1042,timothy47@yahoo.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1043,elizabeth50@yahoo.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1044,michelle86@johnson.biz,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1045,nicoleberry@fisher.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+1046,wjones@lara.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1047,cathylong@hill-mitchell.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1048,trangeorge@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1049,udavis@jones.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1050,frankanderson@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1051,georgeevan@gmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1052,adrian73@thomas.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+1053,carolyn00@nelson-kennedy.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1054,williamlee@yahoo.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1055,fishermario@webster.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1056,kevin00@dennis.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1057,brandonsanders@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1058,carla35@yahoo.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1059,fmckinney@yahoo.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1060,medinachristopher@campbell.info,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1061,fmurray@gmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1062,rebeccagarcia@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1063,amandagreen@freeman-fisher.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+1064,bowmanjessica@yahoo.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+1065,matthew76@hotmail.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1066,desireetyler@hotmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1067,wilsonshannon@yahoo.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+1068,rosalesmichelle@hotmail.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+1069,uhull@alvarado.net,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+1070,fsmith@gmail.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+1071,cisnerosrebecca@james.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1072,conleyricky@hardy.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1073,fostermatthew@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1074,wwagner@gmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1075,daniel78@hotmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1076,cory38@johnson.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1077,elizabethfaulkner@norton.biz,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1078,iwhite@sosa.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1079,perrychristine@morris.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1080,jhernandez@turner.org,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1081,emily11@barton.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1082,bjohnson@white-gaines.info,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1083,fsanders@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1084,rwaters@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1085,travisnicole@hotmail.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+1086,pjohnson@martinez.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1087,matthewespinoza@glass.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1088,brewerkatie@yahoo.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+1089,robertlambert@hotmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1090,wstone@craig.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1091,ryanellis@herring-griffin.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1092,serranochristopher@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1093,wilsonmeghan@bender.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1094,twu@montoya-kelly.org,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1095,lisa98@long.org,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1096,barryshaun@carpenter.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1097,rchristensen@johnson-love.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1098,jenniferkelly@boyle.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1099,davidwebster@robinson.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1100,tracycoleman@soto-thompson.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1101,wsantana@stephens.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1102,allisonchristopher@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1103,nicolewalker@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1104,wilcoxmelissa@hotmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1105,christinabowen@hays-woods.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1106,mooretimothy@gmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+1107,mwilson@miller.info,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1108,gcervantes@stephens.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1109,william82@parker-brown.biz,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+1110,jonesjordan@stevenson.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1111,garciasheila@hotmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1112,hannah82@barrett.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+1113,hallamanda@hunter-ball.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1114,catherine17@jimenez-martinez.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1115,zwood@jordan.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1116,udavis@hotmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1117,travismoore@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1118,loricampbell@hotmail.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+1119,patrick33@gmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1120,lbrooks@yahoo.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1121,spencerhenderson@smith.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1122,cynthianichols@ellison-johnson.net,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1123,reginaldreyes@hamilton.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+1124,qgarcia@arnold.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+1125,toddramirez@gmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1126,rita02@hotmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1127,amy97@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1128,howardblake@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1129,michael69@yahoo.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1130,jared25@hotmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1131,tmorales@yahoo.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+1132,whitebryan@yahoo.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1133,kruegerfrancis@kent-smith.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1134,zwilliams@petersen.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+1135,zhill@simmons-carroll.net,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1136,elizabeth33@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1137,masonjames@holmes-west.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1138,zwells@weiss-johnson.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1139,denise99@martin.net,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+1140,eddie62@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1141,josephmurphy@gmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1142,stephaniemyers@gutierrez.biz,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+1143,sjohnson@hernandez.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1144,kiaracunningham@gmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1145,martha02@garcia-stone.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1146,jerry20@yahoo.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1147,christensenmatthew@smith.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+1148,douglasmarissa@nelson.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1149,dmack@berry.net,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1150,kevin28@martin.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1151,jonestimothy@hotmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1152,justinjohnson@adkins-byrd.info,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1153,qwolfe@hotmail.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+1154,rpittman@hotmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1155,butlerelizabeth@duncan.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1156,lewismonica@gmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1157,shawchristine@wilson.biz,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1158,murphyrobert@phillips.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+1159,matthewwang@hotmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1160,jeffreyscott@reid.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+1161,martinsutton@porter.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1162,ldavis@nelson-moses.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1163,elizabethfernandez@gmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1164,leahgreen@vasquez.biz,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1165,cortezmelissa@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1166,jeanette93@williams.org,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1167,williamliu@garrison.biz,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1168,brittany83@hotmail.com,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+1169,turnermichaela@hotmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1170,kennethadams@carter-russell.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+1171,cmanning@hotmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1172,nicole75@yahoo.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1173,felicianoble@armstrong-meza.org,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1174,christopher71@gmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1175,malvarez@barnett-hester.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+1176,rwalsh@yahoo.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+1177,khall@yahoo.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1178,herreradavid@martin-bradford.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1179,tylerjordan@hale.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+1180,boyddeanna@taylor.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1181,edwin18@gmail.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1182,cummingsjulie@sanchez.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+1183,william95@mayo.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1184,owensmark@hotmail.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1185,ycooper@hotmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1186,joshua31@gmail.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1187,benjamingarza@davis.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+1188,colin12@hotmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1189,cjoyce@gmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1190,williamsmaureen@ochoa.net,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1191,matthewjacobson@yahoo.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1192,msnyder@harper-cole.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1193,georgephillips@gmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+1194,dbrown@walsh-jackson.net,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+1195,xreyes@hotmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1196,melindajohnson@nicholson-quinn.biz,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1197,kentjonathon@mccullough.biz,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+1198,rosejeremy@johnson-watson.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1199,gmccarthy@gmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1200,melissafarrell@hotmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1201,qcollier@yahoo.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1202,joelmcfarland@knox-elliott.biz,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1203,fparker@hines.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1204,gonzalezgregory@fisher.info,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1205,sandra24@hotmail.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+1206,molly32@gmail.com,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1207,williamlawrence@gmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+1208,cookjeremy@gmail.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1209,poolesherry@gmail.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+1210,heather81@yahoo.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1211,donna16@gmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1212,snowamy@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1213,inash@robinson-anderson.com,My screen flickers more than my living room lights. Any tips?,DISPLAY_ISSUE
+1214,ododson@chavez.net,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+1215,tguzman@gmail.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1216,lsmith@gmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1217,carolyncohen@gmail.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1218,mason80@anderson.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1219,ronald87@yahoo.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1220,fallen@gmail.com,Looking for the holy grail of gadgets. Got any leads?,PRODUCT_RECOMMENDATION
+1221,deandawn@martinez.org,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+1222,mariamolina@moore-clay.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1223,daviscatherine@sims.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1224,echen@patterson-harris.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+1225,richard10@wright.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1226,bcantu@hotmail.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+1227,rachelwiggins@gmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1228,ellischarles@hotmail.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1229,marshalljordan@yahoo.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1230,johnwalker@gmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1231,debra87@hotmail.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1232,brownphyllis@tucker.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1233,harveysara@jackson-robles.net,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1234,robertknapp@cunningham.org,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1235,qgraham@wolfe-anderson.biz,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1236,ibrown@hudson.org,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1237,stephaniepotter@hotmail.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1238,regina82@gmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1239,deanna62@johnson.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+1240,christopher06@hotmail.com,I think my new gadget hates me. Won't set up properly.,PRODUCT_SETUP
+1241,thompsonolivia@hotmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1242,vhawkins@martin.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1243,rhonda06@gmail.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1244,jessica65@cisneros-mosley.org,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1245,hansonemma@contreras.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1246,carrie80@booker.info,"My package is playing hide and seek, and I'm losing. Where is it?",DELIVERY_PROBLEM
+1247,bennettalicia@taylor.org,"Hey there, I can't seem to log into my account. I'm sure I've got the right password!",ACCOUNT_ACCESS
+1248,jennifer14@reyes.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
+1249,juliemurphy@walters.org,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1250,ricekathleen@yahoo.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1251,ksmith@gmail.com,"This app crashes more than my diet plans. Bug fix, please?",SOFTWARE_BUG
+1252,leahrobinson@ritter.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+1253,kevin05@gmail.com,Trying to install this software and... I'm lost. Halp?,INSTALLATION_SUPPORT
+1254,kbrooks@adams.com,My files pulled a Houdini on me post-update. Help!,DATA_LOSS
+1255,robert68@cole.info,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1256,tanderson@vargas.net,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1257,raustin@stephenson.com,"Bought a new keyboard, and it's already giving me the silent treatment.",PERIPHERAL_COMPATIBILITY
+1258,julie68@gmail.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1259,elucas@schmidt.com,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1260,longjennifer@yahoo.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1261,janetwhite@graham.com,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+1262,yvettedavis@gmail.com,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1263,fgriffith@hotmail.com,My device is hotter than a summer in the Sahara. Should I be worried?,HARDWARE_ISSUE
+1264,xmartinez@hotmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1265,lindsey92@hotmail.com,All my selfies are gone! Did the update eat them?,DATA_LOSS
+1266,stephenroberts@castillo.biz,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1267,carrillodebra@yahoo.com,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1268,cantrellderrick@chapman-jordan.info,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+1269,rollinsmelissa@lewis.net,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1270,alvarezjill@bauer.com,"Not to be dramatic, but I regret this purchase. Refund?",REFUND_REQUEST
+1271,rreid@gmail.com,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1272,robert83@hotmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1273,kespinoza@davis.com,Setting this up is harder than assembling IKEA furniture. Help!,PRODUCT_SETUP
+1274,robertsgabriel@hotmail.com,In dire need of something that doesn’t break in 2 days. Any suggestions?,PRODUCT_RECOMMENDATION
+1275,erin96@yahoo.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1276,bwilson@yahoo.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1277,john91@gmail.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1278,david68@wall.net,Wi-Fi drops more often than my friends on a Friday night.,NETWORK_PROBLEM
+1279,stephen03@hotmail.com,So I paid... and then paid again? Guess I'm just generous like that.,PAYMENT_ISSUE
+1280,donald26@taylor.com,I wanna cancel my order. Haven't received it and I'm already over it.,CANCELLATION_REQUEST
+1281,hillashley@perry.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1282,ostewart@yahoo.com,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1283,rhodessean@yahoo.com,"Found a bug. Not the cute, crawly kind. The crashy, annoying kind.",SOFTWARE_BUG
+1284,ann93@bennett.com,"Oops, looks like I'm locked out of my account. Can you help me get back in?",ACCOUNT_ACCESS
+1285,baileyjoshua@ross.com,"Half the time, my display is like, 'Nah, I'm out.' Fixable?",DISPLAY_ISSUE
+1286,tlewis@gmail.com,My phone's battery is dying faster than my social life. What's up with that?,BATTERY_LIFE
+1287,djenkins@valdez-simpson.org,My gadgets are like me at social events. Not mixing well. Advice?,PRODUCT_COMPATIBILITY
+1288,annmoody@hernandez.com,"It keeps freezing. I mean my device, not the weather.",HARDWARE_ISSUE
+1289,sharonmoss@lee-knight.info,My new headphones and my phone are not talking. Can you mediate?,PERIPHERAL_COMPATIBILITY
+1290,lee39@mccoy.biz,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1291,daniel08@brown.info,"Got full bars, but the internet's playing hard to get.",NETWORK_PROBLEM
+1292,qallen@kelley.com,Is it normal for my gadget to lose battery like I lose my keys? Every. Single. Day.,BATTERY_LIFE
+1293,audreyklein@washington.info,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+1294,reesewanda@chan.org,"This isn't working out. It's not me, it's you. Can I get a refund?",REFUND_REQUEST
+1295,phyllis26@salinas-dunn.biz,"My payment went through twice. Double the fun, double the bill?",PAYMENT_ISSUE
+1296,welchjesse@watson.com,Looks like my order decided to take a world tour. Still not here!,DELIVERY_PROBLEM
+1297,ndunn@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1298,vnelson@yahoo.com,This device isn’t meshing with my setup. Compatibility tips?,PRODUCT_COMPATIBILITY
+1299,garrettbrian@gmail.com,Installation wizard? More like installation muggle. Can't get it to work.,INSTALLATION_SUPPORT
+1300,sawyersamuel@gmail.com,Changed my mind! Can I cancel my order? I haven't even told my cat about it yet.,CANCELLATION_REQUEST
