@@ -8,3 +8,6 @@ dumps/
 .DS_Store
 app/out/
 __pycache__/
+
+docker/kafka/
+docker/zookeeper/

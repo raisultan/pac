@@ -13,6 +13,8 @@ services:
     image: confluentinc/cp-kafka:latest
     depends_on:
       - zookeeper
+    volumes:
+      - ./kafka/data:/var/lib/kafka/data
     ports:
       - 9092:9092
       - 29092:29092
