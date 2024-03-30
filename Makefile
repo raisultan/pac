@@ -4,9 +4,9 @@ stop-milvus:
 	docker compose -f docker/milvus.yaml stop
 
 start-kafka:
-	docker compose -f docker/zookeeper-kafka.yaml up -d
+	docker compose -f docker/kafka.yaml up -d
 stop-kafka:
-	docker compose -f docker/zookeeper-kafka.yaml stop
+	docker compose -f docker/kafka.yaml stop
 
 run:
 	faststream run pac.main:app
