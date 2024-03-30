@@ -21,5 +21,3 @@
 4. Categorizer: given a ticket categorizes it to be one of available categories.
 
 5. Event Composer: composes BI event from original ticket and any data outputed or used during processing
-
-6. Data Lake Repository: sends data to data lake.
