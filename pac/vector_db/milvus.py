@@ -1,6 +1,7 @@
+from typing import Optional
 from dataclasses import dataclass
 
-from pymilvus import Collection, CollectionSchema, FieldSchema, DataType, connections
+from pymilvus import Collection, CollectionSchema, FieldSchema, DataType, MilvusClient, connections
 
 from pac.vector_db.interface import VectorDBInterface
 
@@ -47,6 +48,7 @@ class MilvusRepository(VectorDBInterface):
         self._password = password
         self._host = host
         self._port = port
+        self._client = MilvusClient(uri=f'http://{host}:{port}', user=user, password=password)
 
     def connect(self):
         connections.connect(
@@ -106,6 +108,12 @@ class MilvusRepository(VectorDBInterface):
                     'distance': hit.distance,
                 })
         return result
+
+    def get(self, id: int) -> Optional[dict]:
+        records = self._client.get(self.collection_name, [id])
+        if not records:
+            return None
+        return records[0]
 
     def delete_by_ids(self, ids: list[int]) -> None:
         collection = self.get_collection()

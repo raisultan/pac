@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from typing import Optional
 
 from pac.vector_db.milvus import MilvusRepository
 
@@ -41,6 +42,9 @@ class VectorDB:
 
     def update(self, record: TicketDTO) -> None:
         self.repository.update([record.to_dict()])
+
+    def get(self, id: int) -> Optional[TicketDTO]:
+        return TicketDTO(**self.repository.get(id))
 
     def delete(self, record: TicketDTO) -> None:
         self.repository.delete_by_ids([record.id])
