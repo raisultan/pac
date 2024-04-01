@@ -13,6 +13,8 @@ python-dotenv = "1.0.1"
 instructor = "0.6.2"
 pymilvus = "2.3.6"
 faststream = {extras = ["kafka"], version = "^0.4.6"}
+fastapi = "0.110.0"
+uvicorn = "0.29.0"
 
 
 [build-system]
