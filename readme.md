@@ -55,5 +55,5 @@ Here should be some diagram of how PAC works.
 Here should be a guide to setup and use PAC.
 
 ### TODO
-- [ ] Add prioritization
+- [x] Add prioritization
 - [ ] Add endpoints to change specific ticket's priority or category

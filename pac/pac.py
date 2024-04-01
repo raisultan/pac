@@ -58,7 +58,7 @@ class PAC:
         else:
             event.is_llm_processed = True
             priority, category = await self._pac_llm_client.run(normalized_text)
-            if category == TicketCategory.OTHER:
+            if category == TicketCategory.OTHER or priority == TicketPriority.OTHER:
                 raise ValueError('Could not assign priority and category to the ticket')
             record = TicketDTO(
                 id=ticket.id,
