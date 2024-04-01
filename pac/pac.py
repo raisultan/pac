@@ -2,8 +2,8 @@ from typing import Final, Type, Optional
 
 from pydantic import BaseModel
 
-from pac.categorizer.enums import TicketCategory
-from pac.categorizer.interface import CategorizerClientInterface
+from pac.enums import TicketCategory, TicketPriority
+from pac.interface import PACLLMInterface
 from pac.normalizer import normalize
 from pac.vectorizer import vectorize
 from pac.vector_db.repository import TicketDTO, VectorDB
@@ -15,21 +15,22 @@ class Ticket(BaseModel):
     text: str
 
 
-class TicketCategorizationEvent(BaseModel):
+class TicketPACEvent(BaseModel):
     ticket: Ticket
     category: Optional[TicketCategory] = None
+    priority: Optional[TicketPriority] = None
     is_llm_processed: bool = False
 
 
-class Categorizer:
+class PAC:
     SIMILARITY_THRESHOLD: Final[float] = 0.9
 
-    def __init__(self, categorizer_client: Type[CategorizerClientInterface], vector_db: VectorDB):
-        self._categorizer_client = categorizer_client
+    def __init__(self, pac_llm_client: Type[PACLLMInterface], vector_db: VectorDB):
+        self._pac_llm_client = pac_llm_client
         self._vector_db = vector_db
 
-    async def categorize(self, ticket: Ticket) -> TicketCategorizationEvent:
-        event = TicketCategorizationEvent(ticket=ticket)
+    async def categorize(self, ticket: Ticket) -> TicketPACEvent:
+        event = TicketPACEvent(ticket=ticket)
 
         normalized_text = normalize(ticket.text)
         embedding = await vectorize(normalized_text)
@@ -45,6 +46,7 @@ class Categorizer:
                 id=ticket.id,
                 email=ticket.email,
                 text=normalized_text,
+                priority=sorted_filtered_results[0]['priority'],
                 category=sorted_filtered_results[0]['category'],
                 embedding=embedding,
             )
@@ -55,18 +57,20 @@ class Categorizer:
             )
         else:
             event.is_llm_processed = True
-            category = await self._categorizer_client.run(normalized_text)
+            priority, category = await self._pac_llm_client.run(normalized_text)
             if category == TicketCategory.OTHER:
-                raise ValueError('Could not categorize the ticket')
+                raise ValueError('Could not assign priority and category to the ticket')
             record = TicketDTO(
                 id=ticket.id,
                 email=ticket.email,
                 text=normalized_text,
+                priority=priority.value,
                 category=category.value,
                 embedding=embedding,
             )
-            print(f'No similar tickets. Assigned category {record.category} to the ticket.')
+            print(f'No similar tickets. Assigned category {record.priority} and {record.category} to the ticket.')
 
         event.category = record.category
+        event.priority = record.priority
         self._vector_db.insert(record)
         return event

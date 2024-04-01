@@ -8,6 +8,7 @@ class TicketDTO:
     id: int
     email: str
     text: str
+    priority: str
     category: str
     embedding: list
 
@@ -16,6 +17,7 @@ class TicketDTO:
             'id': self.id,
             'email': self.email,
             'text': self.text,
+            'priority': self.priority,
             'category': self.category,
             'embedding': self.embedding,
         }

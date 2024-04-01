@@ -1,4 +1,4 @@
-from enum import Enum, auto
+from enum import Enum
 
 
 class TicketCategory(Enum):
@@ -18,4 +18,12 @@ class TicketCategory(Enum):
     PRODUCT_SETUP = 'product_setup'
     REFUND_REQUEST = 'refund_request'
     SOFTWARE_BUG = 'software_bug'
+    OTHER = 'other'
+
+
+class TicketPriority(Enum):
+    CRITICAL = 'critical'
+    HIGH = 'high'
+    MEDIUM = 'medium'
+    LOW = 'low'
     OTHER = 'other'

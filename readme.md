@@ -43,7 +43,7 @@ Here should be some diagram of how PAC works.
     - Updates Record in Vector DB
     - Removes Record from Vector DB
 
-4. Categorizer: given a ticket categorizes it to be one of available categories.
+4. PAC: given a ticket prioritizes and categorizes it to be one of available categories.
 
 5. Event Composer: composes BI event from original ticket and any data outputed or used during processing
 

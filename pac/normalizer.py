@@ -1,5 +1,6 @@
 from cleantext import clean
 
+
 def normalize(text: str) -> str:
     return clean(
         text,

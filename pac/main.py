@@ -4,17 +4,17 @@ from dotenv import load_dotenv
 from faststream import FastStream
 from faststream.kafka import KafkaBroker
 
-from pac.categorizer.openai import OpenAICategorizer
+from pac.openai import OpenAIPACLLM
 from pac.vector_db.repository import VectorDB
 from pac.vector_db.milvus import MilvusRepository
-from pac.categorizer.categorizer import Categorizer, Ticket
+from pac.pac import PAC, Ticket
 
 load_dotenv(override=True)
 
 api_key = os.getenv('OPENAI_API_KEY')
 vector_db = VectorDB(MilvusRepository())
-categorizer_client = OpenAICategorizer(api_key)
-categorizer = Categorizer(categorizer_client, vector_db)
+pac_llm_client = OpenAIPACLLM(api_key)
+pac = PAC(pac_llm_client, vector_db)
 
 broker = KafkaBroker('localhost:29092')
 app = FastStream(broker)
@@ -34,5 +34,5 @@ async def shutdown_vector_db():
 @broker.publisher('test_out')
 async def handle_ticket(ticket: Ticket):
     print(f'Handling ticket: {ticket}')
-    event = await categorizer.categorize(ticket)
+    event = await pac.categorize(ticket)
     return event

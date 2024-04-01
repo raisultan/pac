@@ -19,10 +19,11 @@ class MilvusRepository(VectorDBInterface):
     id_field = FieldSchema(name='id', dtype=DataType.INT64, is_primary=True)
     email_field = FieldSchema(name='email', dtype=DataType.VARCHAR, max_length=256)
     text_field = FieldSchema(name='text', dtype=DataType.VARCHAR, max_length=512)
+    priority_field = FieldSchema(name='priority', dtype=DataType.VARCHAR, max_length=256)
     category_field = FieldSchema(name='category', dtype=DataType.VARCHAR, max_length=256)
     embedding_field = FieldSchema(name='embedding', dtype=DataType.FLOAT_VECTOR, dim=VECTOR_DIMENSIONS)
     schema = CollectionSchema(
-        fields=[id_field, email_field, text_field, category_field, embedding_field],
+        fields=[id_field, email_field, text_field, priority_field, category_field, embedding_field],
         description='Support Tickets Collection',
     )
     collection_name = 'tickets'
@@ -91,7 +92,7 @@ class MilvusRepository(VectorDBInterface):
             'embedding',
             search_params,
             limit=topK,
-            output_fields=['id', 'category', 'text'],
+            output_fields=['id', 'priority', 'category', 'text'],
         )
         result = []
         for hits in raw_result:
@@ -99,6 +100,7 @@ class MilvusRepository(VectorDBInterface):
                 entity = hit.entity
                 result.append({
                     'id': entity.get('id'),
+                    'priority': entity.get('priority'),
                     'category': entity.get('category'),
                     'text': entity.get('text'),
                     'distance': hit.distance,
