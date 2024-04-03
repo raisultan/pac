@@ -30,6 +30,9 @@ class PAC:
         self._vector_db = vector_db
 
     async def categorize(self, ticket: Ticket) -> TicketPACEvent:
+        if self._vector_db.get(ticket.id):
+            raise ValueError(f'Ticket with id {ticket.id} already exists in the database.')
+
         event = TicketPACEvent(ticket=ticket)
 
         normalized_text = normalize(ticket.text)

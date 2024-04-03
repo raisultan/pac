@@ -17,7 +17,7 @@ class MilvusRepository(VectorDBInterface):
 
     VECTOR_DIMENSIONS = 1536
 
-    id_field = FieldSchema(name='id', dtype=DataType.INT64, is_primary=True)
+    id_field = FieldSchema(name='id', dtype=DataType.INT64, auto_id=False, is_primary=True)
     email_field = FieldSchema(name='email', dtype=DataType.VARCHAR, max_length=256)
     text_field = FieldSchema(name='text', dtype=DataType.VARCHAR, max_length=512)
     priority_field = FieldSchema(name='priority', dtype=DataType.VARCHAR, max_length=256)

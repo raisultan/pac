@@ -53,11 +53,3 @@ Here should be some diagram of how PAC works.
 ### Getting Started
 
 Here should be a guide to setup and use PAC.
-
-### TODO
-- [x] Add prioritization
-- [x] Add endpoints to change specific ticket's priority or category
-- [ ] Add correction event
-    - [x] Separate Kafka Topic
-    - [x] Separate entity for updating a ticket
-- [ ] Make IDs unique
