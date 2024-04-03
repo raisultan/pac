@@ -6,7 +6,7 @@ Quick explanation of the logic behind it is as follows: support ticket data is r
 
 PAC also generates a response event with original ticket data and priority and category and sends it to output topic. So that this event can be further sent to data lake or other storage for later BI or other type of analysis.
 
-In case if priority or category of a certain ticket was assigned incorrectly, there is an API so that correct priority or category can be assigned manually.
+In case if priority or category of a certain ticket was assigned incorrectly, there is an API so that correct priority or category can be assigned manually. If such case happens, app sends separate correction event to a separate topic, so that it will be taken to account during analysis.
 
 ### Architecture
 
@@ -45,7 +45,7 @@ Here should be some diagram of how PAC works.
 
 4. PAC: given a ticket prioritizes and categorizes it to be one of available categories.
 
-5. Event Composer: composes BI event from original ticket and any data outputed or used during processing
+5. Updater: corrects already PACed ticket with given priority and category.
 
 ### Constraints
 1. Ticket Body Max Characters: 500 characters.
@@ -56,4 +56,8 @@ Here should be a guide to setup and use PAC.
 
 ### TODO
 - [x] Add prioritization
-- [ ] Add endpoints to change specific ticket's priority or category
+- [x] Add endpoints to change specific ticket's priority or category
+- [ ] Add correction event
+    - [x] Separate Kafka Topic
+    - [x] Separate entity for updating a ticket
+- [ ] Make IDs unique
