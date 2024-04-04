@@ -9,7 +9,6 @@ PAC also generates a response event with original ticket data and priority and c
 In case if priority or category of a certain ticket was assigned incorrectly, there is an API so that correct priority or category can be assigned manually. If such case happens, app sends separate correction event to a separate topic, so that it will be taken to account during analysis.
 
 ### Tech Stack
-#### Dependencies
 - Python 3.10
 - Milvus
 - Kafka and Zookeeper
