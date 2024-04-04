@@ -1,4 +1,4 @@
-# [WIP] PAC
+# PAC
 
 PAC is a tool for Prioritization and Categorization of support tickets. It enables quick and effortless categorization of support tickets for any kind of product. The main goal of a project is to remove manual human labor and automate the process. It reaches the goal using Vector Semantic Search and LLM function calling.
 
@@ -8,10 +8,6 @@ PAC also generates a response event with original ticket data and priority and c
 
 In case if priority or category of a certain ticket was assigned incorrectly, there is an API so that correct priority or category can be assigned manually. If such case happens, app sends separate correction event to a separate topic, so that it will be taken to account during analysis.
 
-### Architecture
-
-Here should be some diagram of how PAC works.
-
 ### Tech Stack
 #### Dependencies
 - Python 3.10
@@ -19,14 +15,6 @@ Here should be some diagram of how PAC works.
 - Kafka and Zookeeper
 - Docker
 - OpenAI
-
-#### Packages
-- poetry for package management
-- clean-text for text normalization
-- openai for OpenAI API calls
-- instructor for function calling with structured output
-- pymilvus as a Milvus client
-- faststream async events framework
 
 ### Components
 1. Text Normalizer
@@ -42,14 +30,8 @@ Here should be some diagram of how PAC works.
     - Inserts into Vector DB
     - Updates Record in Vector DB
     - Removes Record from Vector DB
+    - Gets a Record by ID from Vector DB
 
 4. PAC: given a ticket prioritizes and categorizes it to be one of available categories.
 
 5. Updater: corrects already PACed ticket with given priority and category.
-
-### Constraints
-1. Ticket Body Max Characters: 500 characters.
-
-### Getting Started
-
-Here should be a guide to setup and use PAC.
