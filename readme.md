@@ -27,7 +27,7 @@ flowchart TB
     I -->|Send to Output Topic| J[Data Lake / Storage]
     
     K[Manual API Correction] -.->|If needed| F
-    K -->|Correction Event| L[Separate Topic for Analysis]
+    K -->|Correction Event| L[Corrected Tickets Topic]
 
     style A fill:#4f77f6,stroke:#333,stroke-width:2px
     style B fill:#ffcf33,stroke:#333,stroke-width:4px
