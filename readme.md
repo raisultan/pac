@@ -8,6 +8,41 @@ PAC also generates a response event with original ticket data and priority and c
 
 In case if priority or category of a certain ticket was assigned incorrectly, there is an API so that correct priority or category can be assigned manually. If such case happens, app sends separate correction event to a separate topic, so that it will be taken to account during analysis.
 
+### Process Flow
+
+```mermaid
+flowchart TB
+    A[Support Ticket] -->|Received via Kafka Topic| B[Text Normalization]
+    B --> C[Request to LLM for Vectorization]
+    C -->|Vector Embedding| D{Vector DB Search}
+
+    D -->|If match| E[Check Distance]
+    E -->|Below Threshold| F[Assign Category & Priority]
+    E -->|Above Threshold| G[LLM Function Call for Priority and Category]
+    G --> F
+    D -->|No match| G
+    
+    F -->|Insert into Vector DB| H[Vector DB]
+    F --> I[Generate Response Event]
+    I -->|Send to Output Topic| J[Data Lake / Storage]
+    
+    K[Manual API Correction] -.->|If needed| F
+    K -->|Correction Event| L[Separate Topic for Analysis]
+
+    style A fill:#4f77f6,stroke:#333,stroke-width:2px
+    style B fill:#ffcf33,stroke:#333,stroke-width:4px
+    style C fill:#7fd3a4,stroke:#333,stroke-width:4px
+    style D fill:#4095c6,stroke:#333,stroke-width:2px
+    style E fill:#f98b88,stroke:#333,stroke-width:2px
+    style F fill:#8bc34a,stroke:#333,stroke-width:2px
+    style G fill:#f06292,stroke:#333,stroke-width:2px
+    style H fill:#795548,stroke:#333,stroke-width:2px
+    style I fill:#64b5f6,stroke:#333,stroke-width:2px
+    style J fill:#ba68c8,stroke:#333,stroke-width:2px
+    style K fill:#ffeb3b,stroke:#333,stroke-width:2px
+    style L fill:#e91e63,stroke:#333,stroke-width:2px
+```
+
 ### Tech Stack
 - Python 3.10
 - Milvus
