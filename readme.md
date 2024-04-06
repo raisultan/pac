@@ -43,14 +43,14 @@ flowchart TB
     style L fill:#e91e63,stroke:#333,stroke-width:2px
 ```
 
-### Tech Stack
+## Tech Stack
 - Python 3.10
 - Milvus
 - Kafka and Zookeeper
 - Docker
 - OpenAI
 
-### Components
+## Components
 1. Text Normalizer
     - Removes Noise: Strips out irrelevant characters.
     - Standardizes: Converts all characters to lowercase to ensure consistency.
@@ -70,7 +70,7 @@ flowchart TB
 
 5. Updater: corrects already PACed ticket with given priority and category.
 
-### Getting Started
+## Getting Started
 
 This section provides instructions on how to set up and run the project using `Poetry` as the package manager.
 
@@ -115,7 +115,7 @@ Start the FastAPI application with the following command:
 make run
 ```
 
-#### Testing Utilities
+### Testing Utilities
 
 **Create Input Topic**
 
@@ -150,7 +150,7 @@ For monitoring corrected tickets:
 make monitor-corrected-tickets CONTAINER_ID=<your_kafka_container_id>
 ```
 
-#### Stopping Services
+### Stopping Services
 
 To stop the services, use the following commands:
 
@@ -166,5 +166,5 @@ make stop-kafka
 make stop-milvus
 ```
 
-#### API Documentation
+### API Documentation
 For detailed API documentation, visit the FastAPI generated API documentation once the application is running on http://127.0.0.1:8000/docs#/
