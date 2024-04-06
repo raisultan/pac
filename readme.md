@@ -141,7 +141,7 @@ For monitoring corrected tickets:
 make monitor-corrected-tickets CONTAINER_ID=<your_kafka_container_id>
 ```
 
-#### Stopping Services**
+#### Stopping Services
 
 To stop the services, use the following commands:
 
@@ -156,4 +156,4 @@ make stop-milvus
 ```
 
 #### API Documentation
-For detailed API documentation, visit the FastAPI generated API documentation once the application is running.
+For detailed API documentation, visit the FastAPI generated API documentation once the application is running on http://127.0.0.1:8000/docs#/
