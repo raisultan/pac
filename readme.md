@@ -69,3 +69,91 @@ flowchart TB
 4. PAC: given a ticket prioritizes and categorizes it to be one of available categories.
 
 5. Updater: corrects already PACed ticket with given priority and category.
+
+### Getting Started
+
+This section provides instructions on how to set up and run the project using `Poetry` as the package manager.
+
+### Prerequisites
+
+Ensure you have Docker and Poetry installed on your system. These tools are required to run the services and the application.
+
+### Setup and Running Services
+
+1. **Start Milvus**
+To start the Milvus database, run the following command:
+```bash
+   make start-milvus
+```
+
+2. **Start Kafka**
+To start Kafka for message queuing, execute:
+```bash
+make start-kafka
+```
+
+3. **Install Dependencies**
+Install the project dependencies using Poetry:
+```bash
+poetry install
+```
+
+4. **Create Vector Database Collection**
+Before running the application, ensure to create the vector database collection with:
+```bash
+make create-collection
+```
+
+5. **Run the Application**
+Start the FastAPI application with the following command:
+```bash
+make run
+```
+
+#### Testing Utilities
+
+**Create Input Topic**
+You can create a Kafka topic for input tickets by running:
+```bash
+make create-input-topic CONTAINER_ID=<your_kafka_container_id>
+```
+
+**Write to Input Topic**
+To send a test ticket to the input topic, use:
+```bash
+make write-to-input-topic CONTAINER_ID=<your_kafka_container_id>
+```
+
+Then, input your test ticket JSON data, for example:
+```json
+{"id": 123, "email": "test@test.com", "text": "peripherals you sent me are not working. i wanna return them today"}
+```
+
+**Monitor Processed Tickets**
+To monitor processed tickets:
+```bash
+make monitor-processed-tickets CONTAINER_ID=<your_kafka_container_id>
+```
+
+**Monitor Corrected Tickets**
+For monitoring corrected tickets:
+```bash
+make monitor-corrected-tickets CONTAINER_ID=<your_kafka_container_id>
+```
+
+#### Stopping Services**
+
+To stop the services, use the following commands:
+
+**Stop Kafka:**
+```bash
+make stop-kafka
+```
+
+**Stop Milvus:**
+```bash
+make stop-milvus
+```
+
+#### API Documentation
+For detailed API documentation, visit the FastAPI generated API documentation once the application is running.
